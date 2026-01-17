@@ -21,7 +21,7 @@
     "postcss": "^8.4.32",
     "zustand": "^4.4.7",
     "recharts": "^2.10.3",
-    "framer-motion": "^10.16.16",
+    "framer-motion": "^11.0.0",
     "lucide-react": "^0.400.0",
     "date-fns": "^3.0.6"
   },
